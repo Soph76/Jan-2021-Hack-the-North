@@ -1,3 +1,5 @@
+#Authors: Hattie Coburn and Sophie Bierer
+#Date created: Jan 17, 2021
 from random import randint
 class Person:
     def __init__(self, username, password, name, school, faculty, program, year, canHelpCourses):
